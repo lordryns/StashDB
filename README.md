@@ -16,7 +16,7 @@ An extremly lightweight json storage for small Python projects.
 
 ## Installation
 
-Install my-project with npm
+Install StashDB with `pip`
 
 ```bash
   pip install stashdb
